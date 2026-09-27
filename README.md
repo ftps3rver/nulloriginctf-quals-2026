@@ -1,4 +1,4 @@
-# Null0rigin CTF 2026 — RUY Writeup
+# NullOrigin CTF 2026 — RUY Writeup
 
 **Team:** RUY (ftps3rver, ednk, AlatBekam, foursaken)
 **Total solves:** 30 — **ftps3rver 17 · ednk 9 · AlatBekam 2 · foursaken 2**
